@@ -1,7 +1,7 @@
 # da startar skolan
 av kristian p
 <html>
- den startar om: 
+ 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -15,7 +15,7 @@ p {
 <body>
 
 <p id="demo"></p>
-
+den startar om: 
 <script>
 // Set the date we're counting down to
 var countDownDate = new Date("Aug 19, 2020 09:00:00").getTime();
