@@ -1,5 +1,5 @@
 
-av kristian p
+
 den startar om:
 <html> 
 <head>
@@ -8,7 +8,7 @@ den startar om:
 p {
   text-align: center;
   font-size: 60px;
-  margin-top: 0px;
+  margin-top: 10px;
 }
 </style>
 </head>
@@ -42,8 +42,8 @@ var x = setInterval(function() {
   // If the count down is over, write some text 
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("demo").innerHTML = "EXPIRED";
+    document.getElementById("demo").innerHTML = "den har starat :(";
   }
 }, 1000);
 </script>
-
+av kristian p
