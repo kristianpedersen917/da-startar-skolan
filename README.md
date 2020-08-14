@@ -1,4 +1,4 @@
-# da startar skolan
+
 av kristian p
 den startar om:
 <html> 
