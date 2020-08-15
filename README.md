@@ -46,4 +46,7 @@ var x = setInterval(function() {
   }
 }, 1000);
 </script>
-
+av kristian p 
+{ text-align:low;
+font-size:10px;
+}
