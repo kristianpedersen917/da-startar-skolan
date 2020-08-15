@@ -5,7 +5,8 @@ den startar om:
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-p {
+  p {
+
   text-align: center;
   font-size: 60px;
   margin-top: 10px;
@@ -46,7 +47,7 @@ var x = setInterval(function() {
   }
 }, 1000);
 </script>
-av kristian p 
-{ text-align:low;
+av kristian p {
+text-align:low;
 font-size:10px;
 }
