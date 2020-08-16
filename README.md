@@ -43,7 +43,7 @@ var x = setInterval(function() {
   // If the count down is over, write some text 
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("demo").innerHTML = "den har starat :(";
+    document.getElementById("demo").innerHTML = game over";
   }
 }, 1000);
 </script>
