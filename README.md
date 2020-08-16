@@ -40,11 +40,7 @@ var x = setInterval(function() {
   document.getElementById("demo").innerHTML = days + "d " + hours + "h "
   + minutes + "m " + seconds + "s ";
     
-  // If the count down is over, write some text 
-  if (distance < 0) {
-    clearInterval(x);
-    document.getElementById("demo").innerHTML = game over";
-  }
+  
 }, 1000);
 </script>
 av kristian p 
